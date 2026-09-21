@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExpenseClassifier.Solution/ExpenseClassifier.Solution.csproj" />
+  <Project Path="ExpenseClassifier.Solution.Tests/ExpenseClassifier.Solution.Tests.csproj" />
+</Solution>
